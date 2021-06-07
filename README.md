@@ -1,5 +1,4 @@
 # surge-currency-convertor-sam
-# surge-currency-convertor-sam
 
 REST API for currency convert
 
