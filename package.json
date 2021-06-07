@@ -1,0 +1,35 @@
+{
+  "name": "tutorial-application-crud",
+  "version": "1.0.0",
+  "description": "Node.js Restful CRUD API with Node.js, Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammaniUmanga/MEAN-CRUD-App-.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "Sammani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SammaniUmanga/MEAN-CRUD-App-/issues"
+  },
+  "homepage": "https://github.com/SammaniUmanga/MEAN-CRUD-App-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "morgan": "^1.10.0",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {}
+}
